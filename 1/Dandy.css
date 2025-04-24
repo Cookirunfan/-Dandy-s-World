@@ -1,0 +1,83 @@
+/*Боді*/
+
+body{
+    background-color: #82e6ac;
+height: 2000px;
+}
+
+/*Скролбар*/
+
+::-webkit-scrollbar-track{
+background-color: #A0C9D9;
+}
+
+::-webkit-scrollbar-thumb{
+color: #D99AB7;
+}
+::-webkit-scrollbar {
+    width: 15px;
+}
+::-webkit-scrollbar-thumb {
+    background-color: #568cdd; 
+    border-radius: 5px;
+}
+
+::-webkit-scrollbar-track {
+    background-color: #b682e6; 
+}
+
+::-webkit-scrollbar-horizontal {
+    height: 5px; 
+}
+
+/*Текст*/
+
+h1{
+color: #6200e2;
+font-size: 110px;
+text-align: center;
+}
+
+h1:hover{
+    color:#4a79b6;
+}
+
+h3{
+    font-size: 90px;
+    color: #832b9e;
+}
+
+h3:hover{
+color: #2319b1;
+}
+
+p{
+    font-size: 50px;
+    color: #3c096b;
+}
+
+p:hover{
+    color:#313d85 ;
+}
+
+.aaa{
+    font-size: 30px;
+}
+
+ /*Фото*/
+
+img{
+    font-size: 80px;
+}
+
+.Need{
+    font-size: 100px;
+    position: absolute;
+}
+
+.X3{
+    font-size: 1px;
+    position: absolute;
+    left: 46.25%;
+}
+
