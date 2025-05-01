@@ -1,8 +1,7 @@
 /*Боді*/
 
 body{
-    background-color: #82e6ac;
-height: 2000px;
+    background-color: #8fecb6;
 }
 
 /*Скролбар*/
@@ -18,12 +17,12 @@ color: #D99AB7;
     width: 15px;
 }
 ::-webkit-scrollbar-thumb {
-    background-color: #568cdd; 
+    background-color: #578fce; 
     border-radius: 5px;
 }
 
 ::-webkit-scrollbar-track {
-    background-color: #b682e6; 
+    background-color: #b279e7; 
 }
 
 ::-webkit-scrollbar-horizontal {
@@ -67,17 +66,10 @@ p:hover{
  /*Фото*/
 
 img{
-    font-size: 80px;
+    font-size: 100%;
 }
 
 .Need{
     font-size: 100px;
     position: absolute;
 }
-
-.X3{
-    font-size: 1px;
-    position: absolute;
-    left: 46.25%;
-}
-
